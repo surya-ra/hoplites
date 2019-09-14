@@ -1,6 +1,28 @@
 {
   "requires": true,
   "lockfileVersion": 1,
+  "dependencies": {},
+  "name": "hoplites",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya-ra/hoplites.git"
+  },
+  "author": "Suryadeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya-ra/hoplites/issues"
+  },
+  "homepage": "https://github.com/surya-ra/hoplites#readme"
+}
+{
+  "requires": true,
+  "lockfileVersion": 1,
   "dependencies": {
     "@snyk/cli-interface": {
       "version": "2.0.3",
